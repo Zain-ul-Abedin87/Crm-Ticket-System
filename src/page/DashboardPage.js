@@ -6,7 +6,7 @@ const DashboardPage = () => {
     <Container>
       <Row>
         <Col>
-          <Button>Add New Ticket</Button>
+          <Button variant="info" style={{fontSize:'3rem', padding:""}}>Add New Ticket</Button>
         </Col>
       </Row>
     </Container>
